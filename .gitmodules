@@ -1,3 +1,6 @@
 [submodule "cookbooks/riak"]
 	path = cookbooks/riak
 	url = https://github.com/basho-labs/riak-chef-cookbook
+[submodule "cookbooks/apt"]
+	path = cookbooks/apt
+	url = https://github.com/opscode-cookbooks/apt
