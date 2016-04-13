@@ -1,3 +1,0 @@
-[submodule "cookbooks/riak"]
-	path = cookbooks/riak
-	url = git://github.com/basho-labs/riak-chef-cookbook.git
